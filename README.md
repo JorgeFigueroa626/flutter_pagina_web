@@ -10,4 +10,4 @@ Dependencias de [URL STRATEGY](https://pub.dev/packages/url_strategy)
 
 | Diseño de Telefono                                |Diseño de Escritorio                         |
 |-------------------------------------------------|-------------------------------------------------|
-| <img src="screenshots/image1.png" height="520"> | <img src="screenshots/image2.png" height="520"> |
+| <img src="https://github.com/JorgeFigueroa626/flutter_pagina_web/blob/main/mobil.png" height="520"> | <img src="https://github.com/JorgeFigueroa626/flutter_pagina_web/blob/main/desktop.png" height="520"> |

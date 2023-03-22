@@ -1,16 +1,13 @@
-# flutter_pagina_web
+# Pagina Web en Flutter
 
-A new Flutter project.
+Dependencias de [URL LAUNCHER](https://pub.dev/packages/url_launcher)
 
-## Getting Started
+Dependencias de [HOOKS REVERPOD](https://pub.dev/packages/hooks_riverpod)
 
-This project is a starting point for a Flutter application.
+Dependencias de [URL STRATEGY](https://pub.dev/packages/url_strategy)
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Diseño de Telefono                                |Diseño de Escritorio                         |
+|-------------------------------------------------|-------------------------------------------------|
+| <img src="screenshots/image1.png" height="520"> | <img src="screenshots/image2.png" height="520"> |
